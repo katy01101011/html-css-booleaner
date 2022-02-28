@@ -3,7 +3,8 @@
 header {
     height: 100px;
     background-color: rgb(78, 160, 255);
-    background-image: url(img/pattern.png);
+    background-image: url(../img/pattern.png);
+    background-size: 400px;
 }
 
 #logo {
@@ -11,4 +12,29 @@ header {
     position: relative;
     top: 40px;
     left: 5px;
+}
+
+h1 {
+    margin-bottom: 0%;
+    font-size: 36px;
+}
+
+.grigio {
+    color: gray;
+}
+
+#azzurro {
+    color: rgb(32, 169, 229);
+}
+
+.credits {
+    font-size: 12px;
+}
+
+#data {
+    font-size: 11px;
+}
+
+#foto_tim {
+    margin-top: 20px;
 }
