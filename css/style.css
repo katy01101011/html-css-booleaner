@@ -38,3 +38,11 @@ h1 {
 #foto_tim {
     margin-top: 20px;
 }
+
+.evidenziatore {
+    background-color: yellow;
+}
+
+ul {
+    padding-left: 16px;
+}
