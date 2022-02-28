@@ -1,3 +1,14 @@
-body {
-    background-color: red;
+/* rgb(78, 160, 255); */
+
+header {
+    height: 100px;
+    background-color: rgb(78, 160, 255);
+    background-image: url(img/pattern.png);
+}
+
+#logo {
+    width: 200px;
+    position: relative;
+    top: 40px;
+    left: 5px;
 }
